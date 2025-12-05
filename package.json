@@ -1,0 +1,28 @@
+{
+  "name": "sn-midnight-theme",
+  "version": "1.2.8",
+  "type": "module",
+  "main": "dist/dist.css",
+  "author": "iamanaws",
+  "description": "Dark midnight theme for Standard Notes.",
+  "sn": {
+    "identifier": "dev.iamanaws.sn-midnight-theme",
+    "name": "Midnight",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "dist/dist.css",
+    "showInGallery": true,
+    "url": "https://iamanaws.github.io/sn-midnight-theme/dist.css",
+    "download_url": "https://iamanaws.github.io/sn-midnight-theme/latest.zip",
+    "latest_url": "https://iamanaws.github.io/sn-midnight-theme/dev.iamanaws.sn-midnight-theme.json"
+  },
+  "scripts": {
+    "build": "tsx build.ts"
+  },
+  "devDependencies": {
+    "@types/archiver": "^7.0.0",
+    "archiver": "^7.0.1",
+    "sass": "^1.94.2",
+    "tsx": "^4.21.0"
+  }
+}
