@@ -1,9 +1,9 @@
 {
   "identifier": "dev.iamanaws.sn-midnight-theme",
-  "name": "Midnight",
+  "name": "Midnight**",
   "content_type": "SN|Theme",
   "area": "themes",
-  "main": "dist.css",
+  "main": "dist/dist.css",
   "showInGallery": true,
   "url": "https://iamanaws.github.io/sn-midnight-theme/dist.css",
   "download_url": "https://iamanaws.github.io/sn-midnight-theme/latest.zip",
