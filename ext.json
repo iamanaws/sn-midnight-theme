@@ -1,0 +1,12 @@
+{
+  "identifier": "dev.iamanaws.sn-midnight-theme",
+  "name": "Midnight",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.8",
+  "description": "Dark midnight theme for Standard Notes",
+  "url": "https://iamanaws.github.io/sn-midnight-theme/dist.css",
+  "download_url": "https://iamanaws.github.io/sn-midnight-theme/latest.zip",
+  "latest_url": "https://iamanaws.github.io/sn-midnight-theme/ext.json"
+}
+
