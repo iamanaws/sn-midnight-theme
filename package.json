@@ -1,9 +1,8 @@
 {
   "name": "sn-midnight-theme",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "type": "module",
   "main": "dist/dist.css",
-  "author": "iamanaws",
   "description": "Dark midnight theme for Standard Notes.",
   "sn": {
     "identifier": "dev.iamanaws.sn-midnight-theme",
